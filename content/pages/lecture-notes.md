@@ -10,30 +10,545 @@ Each class session includes up to three types of lecture notes. Each session is 
 
 All guest lectures are courtesy of the person named and are used with permission.
 
-| SES # | TOPICS | CASES | LECTURE NOTES |
-| --- | --- | --- | --- |
-| 1 | Unit A. Course introduction, role and dilemmas of planning, learning from theory and context (cases) | Rebuilding Los Angeles (RLA) | Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read1)) |
-| 2 | Case retrospective and "questions for reflective planners" (what's the use of theory?) | RLA re-analyzed, plus planning's traditions and dilemmas overviewed, transition to briefing case and exercise |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read2)) {{< br >}}{{< br >}} Presentation ([PDF]({{< baseurl >}}/resources/slides2)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes2)) {{< br >}}{{< br >}}  |
-| 3 | Unit B. Decision case and team briefings | New Orleans recovery: Case introduction and teams |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read3)) {{< br >}}{{< br >}} Presentation ([PDF]({{< baseurl >}}/resources/slides3)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes3)) {{< br >}}{{< br >}}  |
-| 4 | Case discussion, including guests | &nbsp; | Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read4)) |
-| 5 | Case prep | &nbsp; |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read5)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes5)) {{< br >}}{{< br >}}  |
-| 6 | Unit C. Planning history and theory: Planning as social reform through expert design |  {{< br >}}{{< br >}} Public housing redevelopment in Boston {{< br >}}{{< br >}} Guest lecturer: Prof. Lawrence Vale {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read6)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes6)) {{< br >}}{{< br >}}  |
-| 7 | Planning as social reform through expert design (cont.) | Guest lecturer: Prof. Lawrence Vale |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read7)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes7)) {{< br >}}{{< br >}}  |
-| 8 | Planning as interest-group politics | Sustainability planning and politics in Curitiba, Brazil |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read8)) {{< br >}}{{< br >}} Presentation ([PDF]({{< baseurl >}}/resources/slides8)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes8)) {{< br >}}{{< br >}}  |
-| 9 | Planning as interest-group politics and citizen participation | Curitiba neighborhood planning scenario |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read9)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes9)) {{< br >}}{{< br >}}  |
-| 10 | Planning as facilitation | "A Towering Dilemma" (resource conflict) |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read10)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes10)) {{< br >}}{{< br >}}  |
-| 11 | Planning as facilitation (cont.) | Micro-settings |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read11)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes11)) {{< br >}}{{< br >}}  |
-| 12 | Planning styles in conflict | Transportation planning | Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read12)) |
-| 13 | Unit D. Planning ethics |  {{< br >}}{{< br >}} Land takings in fast-growing economies {{< br >}}{{< br >}} Guest lecturer: Prof. Annette Kim {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Overview of final unit ([PDF]({{< baseurl >}}/resources/read13_overview)) {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read13)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes13)) {{< br >}}{{< br >}}  |
-| 14 | Planning ethics (cont.) | Guest lecturer: Prof. Annette Kim |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read14)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes14)) {{< br >}}{{< br >}}  |
-| 15 | Multi-level planning: Means and ends |  {{< br >}}{{< br >}} Case: Energy, environment, and development in modern India {{< br >}}{{< br >}} Guest lecturer: Prof. Balakrishnan Rajagopal {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read15)) {{< br >}}{{< br >}} Presentation ([PDF]({{< baseurl >}}/resources/slides15)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes15)) {{< br >}}{{< br >}}  |
-| 16 | Multi-level planning: Means and ends (cont.) | Guest lecturer: Prof. Balakrishnan Rajagopal |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read16)) {{< br >}}{{< br >}} Presentation ([PDF]({{< baseurl >}}/resources/slides16)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes16)) {{< br >}}{{< br >}}  |
-| 17 | Planning and cultural diversity | Siting cultural facilities in Australia |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read17)) {{< br >}}{{< br >}} Presentation ([PDF]({{< baseurl >}}/resources/slides17)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes17)) {{< br >}}{{< br >}}  |
-| 18 | Planning and cultural diversity (cont.) | Two cases: Culture, power and communication |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read18)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes18)) {{< br >}}{{< br >}}  |
-| 19 | Participatory planning revisited | Redevelopment and historic preservation in Singapore's Chinatown |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read19)) {{< br >}}{{< br >}} Presentation ([PDF]({{< baseurl >}}/resources/slides19)) {{< br >}}{{< br >}}  |
-| 20 | Participating the grassroots and "grasstops": Planning and civic capacity | Case: Managing sprawling growth in the American West |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read20)) {{< br >}}{{< br >}} Class notes ([PDF]({{< baseurl >}}/resources/notes20)) {{< br >}}{{< br >}}  |
-| 21 | Participating the grassroots and "grasstops": Planning and civic capacity (cont.) | Case: Slum redevelopment in India | Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read21)) |
-| 22 | The planned city, 21st century style | Guest Lecturer: Prof. Dennis Frenchman | Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read22)) |
-| 23 | Rethinking New Orleans recovery planning | &nbsp; | Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read23)) |
-| 24 | Planning together debrief | Assignment debrief and implications |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read24)) {{< br >}}{{< br >}} Presentation ([PDF]({{< baseurl >}}/resources/slides24)) {{< br >}}{{< br >}}  |
-| 25 | Final class | Course review and looking ahead (your planning education and career) |  {{< br >}}{{< br >}} Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read25)) {{< br >}}{{< br >}} Presentation ([PDF]({{< baseurl >}}/resources/slides25)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+CASES
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Unit A. Course introduction, role and dilemmas of planning, learning from theory and context (cases)
+{{< tdclose >}}
+{{< tdopen >}}
+Rebuilding Los Angeles (RLA)
+{{< tdclose >}}
+{{< tdopen >}}
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Case retrospective and "questions for reflective planners" (what's the use of theory?)
+{{< tdclose >}}
+{{< tdopen >}}
+RLA re-analyzed, plus planning's traditions and dilemmas overviewed, transition to briefing case and exercise
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read2))
+
+Presentation ([PDF]({{< baseurl >}}/resources/slides2))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Unit B. Decision case and team briefings
+{{< tdclose >}}
+{{< tdopen >}}
+New Orleans recovery: Case introduction and teams
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read3))
+
+Presentation ([PDF]({{< baseurl >}}/resources/slides3))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Case discussion, including guests
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Case prep
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read5))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes5))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Unit C. Planning history and theory: Planning as social reform through expert design
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Public housing redevelopment in Boston
+
+Guest lecturer: Prof. Lawrence Vale
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read6))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes6))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Planning as social reform through expert design (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Prof. Lawrence Vale
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read7))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes7))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Planning as interest-group politics
+{{< tdclose >}}
+{{< tdopen >}}
+Sustainability planning and politics in Curitiba, Brazil
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read8))
+
+Presentation ([PDF]({{< baseurl >}}/resources/slides8))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes8))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Planning as interest-group politics and citizen participation
+{{< tdclose >}}
+{{< tdopen >}}
+Curitiba neighborhood planning scenario
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read9))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes9))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Planning as facilitation
+{{< tdclose >}}
+{{< tdopen >}}
+"A Towering Dilemma" (resource conflict)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read10))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes10))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Planning as facilitation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Micro-settings
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read11))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes11))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Planning styles in conflict
+{{< tdclose >}}
+{{< tdopen >}}
+Transportation planning
+{{< tdclose >}}
+{{< tdopen >}}
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Unit D. Planning ethics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Land takings in fast-growing economies
+
+Guest lecturer: Prof. Annette Kim
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Overview of final unit ([PDF]({{< baseurl >}}/resources/read13_overview))
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read13))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes13))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Planning ethics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Prof. Annette Kim
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read14))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes14))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Multi-level planning: Means and ends
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case: Energy, environment, and development in modern India
+
+Guest lecturer: Prof. Balakrishnan Rajagopal
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read15))
+
+Presentation ([PDF]({{< baseurl >}}/resources/slides15))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes15))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Multi-level planning: Means and ends (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecturer: Prof. Balakrishnan Rajagopal
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read16))
+
+Presentation ([PDF]({{< baseurl >}}/resources/slides16))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes16))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Planning and cultural diversity
+{{< tdclose >}}
+{{< tdopen >}}
+Siting cultural facilities in Australia
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read17))
+
+Presentation ([PDF]({{< baseurl >}}/resources/slides17))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes17))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Planning and cultural diversity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Two cases: Culture, power and communication
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read18))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes18))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Participatory planning revisited
+{{< tdclose >}}
+{{< tdopen >}}
+Redevelopment and historic preservation in Singapore's Chinatown
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read19))
+
+Presentation ([PDF]({{< baseurl >}}/resources/slides19))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Participating the grassroots and "grasstops": Planning and civic capacity
+{{< tdclose >}}
+{{< tdopen >}}
+Case: Managing sprawling growth in the American West
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read20))
+
+Class notes ([PDF]({{< baseurl >}}/resources/notes20))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Participating the grassroots and "grasstops": Planning and civic capacity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Case: Slum redevelopment in India
+{{< tdclose >}}
+{{< tdopen >}}
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read21))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The planned city, 21st century style
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer: Prof. Dennis Frenchman
+{{< tdclose >}}
+{{< tdopen >}}
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read22))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Rethinking New Orleans recovery planning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read23))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Planning together debrief
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment debrief and implications
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read24))
+
+Presentation ([PDF]({{< baseurl >}}/resources/slides24))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final class
+{{< tdclose >}}
+{{< tdopen >}}
+Course review and looking ahead (your planning education and career)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading tips and study questions ([PDF]({{< baseurl >}}/resources/read25))
+
+Presentation ([PDF]({{< baseurl >}}/resources/slides25))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
