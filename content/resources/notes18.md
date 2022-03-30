@@ -4,6 +4,7 @@ description: 'Lecture notes on planning and cultural diversity, and two cases: c
   power, and communication.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-201-gateway-planning-action-fall-2007/5e1a1ba5636f876adb619b2426885ea5_notes18.pdf
 file_type: application/pdf
+parent_uid: 1583e95b-c487-2f9a-a0e3-3811ab29f7d3
 resourcetype: Document
 title: notes18.pdf
 uid: 5e1a1ba5-636f-876a-db61-9b2426885ea5

@@ -4,6 +4,7 @@ description: Lecture notes with a debriefing on Lecture 4, discussion of the Mar
   article, and discussion of the class assignment.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-201-gateway-planning-action-fall-2007/a4a7b56624e15d22660bf3fc62598fe4_notes5.pdf
 file_type: application/pdf
+parent_uid: 1583e95b-c487-2f9a-a0e3-3811ab29f7d3
 resourcetype: Document
 title: notes5.pdf
 uid: a4a7b566-24e1-5d22-660b-f3fc62598fe4
